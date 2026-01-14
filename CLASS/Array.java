@@ -10,8 +10,8 @@
 //                 max = arr[i];
 //             }
 //         }
-//         return max;
-//     }
+//       2z   return max;
+//     }`
 
 //       public static int min(int[] arr){      
 //         int min = arr[0];
