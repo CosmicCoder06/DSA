@@ -12,7 +12,7 @@ public class SelectionSort {
                 }
             }
 
-            // swap A[i] and A[minIndex]
+            
             int temp = A[i];
             A[i] = A[minIndex];
             A[minIndex] = temp;
